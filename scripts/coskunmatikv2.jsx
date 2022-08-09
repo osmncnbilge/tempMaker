@@ -479,5 +479,3 @@ function setExportPath() {
 function renderMovie() {
     alert(arguments.callee.name)
 };
-
-hello
